@@ -1,7 +1,8 @@
 <!-- Introdução -->
 <div align="center">
   <a hfer="https://github.com/Kaikeeksr">
-  Olá, eu sou o Kaike 👋
+  <h1 class= "title">Olá eu sou o Kaike 👋 </h1>
+  </a>  
 <div/>
 
 <!-- Stats -->
