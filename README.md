@@ -1,7 +1,7 @@
 <!-- Introdução -->
 <div align="center">
   <a hfer="https://github.com/Kaikeeksr">
-  <h1 class= "title"> Olá eu sou o Kaike  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="37px"> </h1>
+  <h1 class= "title"> Olá, eu sou o Kaike  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="37px"> </h1>
   </a>  
 <div/>
 
