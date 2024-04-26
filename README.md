@@ -7,7 +7,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaikeeksr&show_icons=true&theme=blueberry&rank_icon=github" style="max-width:100%;"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikeeksr&layout=compact&theme=blueberry&hide=php,%20python," style="max-width:100%;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaikeeksr&show_icons=true&theme=blueberry&rank_icon=github" style="max-width:100%;"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikeeksr&layout=compact&theme=blueberry&hide=php&exclude_repo=Notas__Array,Prova-HTML_Java-Script,Dolarinvaders" style="max-width:100%;">
 </div>
 
   
