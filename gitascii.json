@@ -1,0 +1,204 @@
+{
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "animationType": "none",
+        "animationPreviewKey": 3,
+        "accentColor": "#00ffff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1787850827992_0"
+    },
+    {
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 296,
+        "y": 106
+      },
+      "size": {
+        "width": 504,
+        "height": 280
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1787850827992_2"
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 402
+      },
+      "size": {
+        "width": 536,
+        "height": 160
+      },
+      "config": {
+        "langsLayout": "bars",
+        "backgroundColor": "#1f1f1f"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1787850827992_3"
+    },
+    {
+      "widgetId": "footer",
+      "name": "Footer Widget",
+      "position": {
+        "x": 0,
+        "y": 578
+      },
+      "size": {
+        "width": 800,
+        "height": 50
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1787850827992_4"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 544,
+        "y": 402
+      },
+      "size": {
+        "width": 240,
+        "height": 160
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "ts",
+          "html",
+          "css",
+          "py",
+          "rust",
+          "go",
+          "cpp"
+        ],
+        "theme": "dark",
+        "perLine": 4
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1787850827992_5"
+    },
+    {
+      "instanceId": "widget_1787850940304",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
+      "position": {
+        "x": 0,
+        "y": 636
+      },
+      "size": {
+        "width": 300,
+        "height": 420
+      },
+      "config": {
+        "transparentBackground": true,
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "enableHolo": false,
+        "country": "BR",
+        "animationType": "slide-up",
+        "animationPreviewKey": 20,
+        "animationDuration": 2300
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1787851168166",
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 16,
+        "y": 114
+      },
+      "size": {
+        "width": 264,
+        "height": 264
+      },
+      "config": {
+        "lockAspectRatio": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787851291065",
+      "widgetId": "godprofile-terminal",
+      "name": "Godprofile-terminal Widget",
+      "position": {
+        "x": 316,
+        "y": 680
+      },
+      "size": {
+        "width": 450,
+        "height": 300
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787851347842",
+      "widgetId": "winxp-system-properties",
+      "name": "Winxp-system-properties Widget",
+      "position": {
+        "x": 4,
+        "y": 1064
+      },
+      "size": {
+        "width": 780,
+        "height": 400
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "transparent",
+    "accentColor": "#00ffff",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native",
+    "transparentBackground": false
+  },
+  "templateId": "terminal"
+}
