@@ -1,32 +1,12 @@
 {
+  "username": "Kaikeeksr",
   "widgets": [
-    {
-      "widgetId": "header",
-      "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 90
-      },
-      "config": {
-        "animationType": "none",
-        "animationPreviewKey": 3,
-        "accentColor": "#00ffff"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1787850827992_0"
-    },
     {
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 296,
-        "y": 106
+        "x": 272,
+        "y": 160
       },
       "size": {
         "width": 504,
@@ -39,83 +19,16 @@
       "instanceId": "widget_1787850827992_2"
     },
     {
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 0,
-        "y": 402
-      },
-      "size": {
-        "width": 536,
-        "height": 160
-      },
-      "config": {
-        "langsLayout": "bars",
-        "backgroundColor": "#1f1f1f"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1787850827992_3"
-    },
-    {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 578
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787850827992_4"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 544,
-        "y": 402
-      },
-      "size": {
-        "width": 240,
-        "height": 160
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
-          "ts",
-          "html",
-          "css",
-          "py",
-          "rust",
-          "go",
-          "cpp"
-        ],
-        "theme": "dark",
-        "perLine": 4
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787850827992_5"
-    },
-    {
       "instanceId": "widget_1787850940304",
       "widgetId": "gitfut-card",
       "name": "Gitfut-card Widget",
       "position": {
-        "x": 0,
-        "y": 636
+        "x": 24,
+        "y": 124
       },
       "size": {
-        "width": 300,
-        "height": 420
+        "width": 216,
+        "height": 322
       },
       "config": {
         "transparentBackground": true,
@@ -133,59 +46,154 @@
       "zIndex": 7
     },
     {
-      "instanceId": "widget_1787851168166",
-      "widgetId": "avatar",
-      "name": "Avatar Widget",
-      "position": {
-        "x": 16,
-        "y": 114
-      },
-      "size": {
-        "width": 264,
-        "height": 264
-      },
-      "config": {
-        "lockAspectRatio": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1787851291065",
-      "widgetId": "godprofile-terminal",
-      "name": "Godprofile-terminal Widget",
-      "position": {
-        "x": 316,
-        "y": 680
-      },
-      "size": {
-        "width": 450,
-        "height": 300
-      },
-      "config": {
-        "accentColor": "#b6a891"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
       "instanceId": "widget_1787851347842",
       "widgetId": "winxp-system-properties",
       "name": "Winxp-system-properties Widget",
       "position": {
-        "x": 4,
-        "y": 1064
+        "x": 32,
+        "y": 480
       },
       "size": {
-        "width": 780,
-        "height": 400
+        "width": 736,
+        "height": 360
       },
       "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1787852068242",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1787852338110",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
+      "position": {
+        "x": 0,
+        "y": 840
+      },
+      "size": {
+        "width": 520,
+        "height": 440
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1787852368212",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget",
+      "position": {
+        "x": 476,
+        "y": 848
+      },
+      "size": {
+        "width": 300,
+        "height": 418
+      },
+      "config": {
+        "searchQuery": "Snorlax",
+        "searchCards": [
+          {
+            "id": "base2-11",
+            "name": "Snorlax",
+            "image": "https://images.pokemontcg.io/base2/11.png"
+          },
+          {
+            "id": "base2-27",
+            "name": "Snorlax",
+            "image": "https://images.pokemontcg.io/base2/27.png"
+          },
+          {
+            "id": "base4-30",
+            "name": "Snorlax",
+            "image": "https://images.pokemontcg.io/base4/30.png"
+          },
+          {
+            "id": "gym1-33",
+            "name": "Rocket's Snorlax",
+            "image": "https://images.pokemontcg.io/gym1/33.png"
+          },
+          {
+            "id": "dp1-37",
+            "name": "Snorlax",
+            "image": "https://images.pokemontcg.io/dp1/37.png"
+          },
+          {
+            "id": "xy2-80",
+            "name": "Snorlax",
+            "image": "https://images.pokemontcg.io/xy2/80.png"
+          },
+          {
+            "id": "swsh1-140",
+            "name": "Snorlax",
+            "image": "https://images.pokemontcg.io/swsh1/140.png"
+          },
+          {
+            "id": "swsh1-141",
+            "name": "Snorlax V",
+            "image": "https://images.pokemontcg.io/swsh1/141.png"
+          },
+          {
+            "id": "swsh1-142",
+            "name": "Snorlax VMAX",
+            "image": "https://images.pokemontcg.io/swsh1/142.png"
+          },
+          {
+            "id": "swsh1-197",
+            "name": "Snorlax V",
+            "image": "https://images.pokemontcg.io/swsh1/197.png"
+          },
+          {
+            "id": "swsh1-206",
+            "name": "Snorlax VMAX",
+            "image": "https://images.pokemontcg.io/swsh1/206.png"
+          },
+          {
+            "id": "swsh2-141",
+            "name": "Snorlax",
+            "image": "https://images.pokemontcg.io/swsh2/141.png"
+          },
+          {
+            "id": "sv9-117",
+            "name": "Hop's Snorlax",
+            "image": "https://images.pokemontcg.io/sv9/117.png"
+          }
+        ],
+        "imageUrl": "https://images.pokemontcg.io/swsh2/141.png",
+        "cardRawUrl": "https://images.pokemontcg.io/swsh2/141.png",
+        "showTitle": true,
+        "enableHolo": false,
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
@@ -200,5 +208,6 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
