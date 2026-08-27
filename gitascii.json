@@ -6,7 +6,7 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 272,
-        "y": 160
+        "y": 131
       },
       "size": {
         "width": 504,
@@ -24,7 +24,7 @@
       "name": "Gitfut-card Widget",
       "position": {
         "x": 24,
-        "y": 124
+        "y": 110
       },
       "size": {
         "width": 216,
@@ -51,7 +51,7 @@
       "name": "Winxp-system-properties Widget",
       "position": {
         "x": 32,
-        "y": 480
+        "y": 448
       },
       "size": {
         "width": 736,
@@ -63,29 +63,12 @@
       "zIndex": 10
     },
     {
-      "instanceId": "widget_1787852068242",
-      "widgetId": "stats",
-      "name": "Stats Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
       "instanceId": "widget_1787852338110",
       "widgetId": "premium-ascii-profile-card",
       "name": "Premium-ascii-profile-card Widget",
       "position": {
         "x": 0,
-        "y": 840
+        "y": 824
       },
       "size": {
         "width": 520,
@@ -108,8 +91,8 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 476,
-        "y": 848
+        "x": 488,
+        "y": 832
       },
       "size": {
         "width": 300,
@@ -184,8 +167,8 @@
             "image": "https://images.pokemontcg.io/sv9/117.png"
           }
         ],
-        "imageUrl": "https://images.pokemontcg.io/swsh2/141.png",
-        "cardRawUrl": "https://images.pokemontcg.io/swsh2/141.png",
+        "imageUrl": "https://images.pokemontcg.io/base2/27.png",
+        "cardRawUrl": "https://images.pokemontcg.io/base2/27.png",
         "showTitle": true,
         "enableHolo": false,
         "animationType": "slide-up",
@@ -194,6 +177,32 @@
       "locked": false,
       "visible": true,
       "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1787852713640",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/Kaikeeksr",
+          "linkedin": "https://www.linkedin.com/in/kaike-rocha-565829210/"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
     }
   ],
   "globalStyles": {
