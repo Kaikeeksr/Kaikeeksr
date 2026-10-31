@@ -1,5 +1,4 @@
 {
-  "username": "Kaikeeksr",
   "widgets": [
     {
       "widgetId": "terminal-info",
@@ -99,76 +98,111 @@
         "height": 418
       },
       "config": {
-        "searchQuery": "Snorlax",
+        "searchQuery": "Dragonite",
         "searchCards": [
           {
-            "id": "base2-11",
-            "name": "Snorlax",
-            "image": "https://images.pokemontcg.io/base2/11.png"
+            "id": "dp6-2",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/dp/dp6/2/low.png"
           },
           {
-            "id": "base2-27",
-            "name": "Snorlax",
-            "image": "https://images.pokemontcg.io/base2/27.png"
+            "id": "ex11-3",
+            "name": "Dragonite δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex11/3/low.png"
           },
           {
-            "id": "base4-30",
-            "name": "Snorlax",
-            "image": "https://images.pokemontcg.io/base4/30.png"
+            "id": "base3-4",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/base/base3/4/low.png"
           },
           {
-            "id": "gym1-33",
-            "name": "Rocket's Snorlax",
-            "image": "https://images.pokemontcg.io/gym1/33.png"
+            "id": "lc-5",
+            "name": "Dark Dragonite",
+            "image": "https://assets.tcgdex.net/en/lc/lc/5/low.png"
           },
           {
-            "id": "dp1-37",
-            "name": "Snorlax",
-            "image": "https://images.pokemontcg.io/dp1/37.png"
+            "id": "dv1-5",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/bw/dv1/5/low.png"
           },
           {
-            "id": "xy2-80",
-            "name": "Snorlax",
-            "image": "https://images.pokemontcg.io/xy2/80.png"
+            "id": "base5-5",
+            "name": "Dark Dragonite",
+            "image": "https://assets.tcgdex.net/en/base/base5/5/low.png"
           },
           {
-            "id": "swsh1-140",
-            "name": "Snorlax",
-            "image": "https://images.pokemontcg.io/swsh1/140.png"
+            "id": "basep-5",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/base/basep/5/low.png"
           },
           {
-            "id": "swsh1-141",
-            "name": "Snorlax V",
-            "image": "https://images.pokemontcg.io/swsh1/141.png"
+            "id": "ecard1-9",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/9/low.png"
           },
           {
-            "id": "swsh1-142",
-            "name": "Snorlax VMAX",
-            "image": "https://images.pokemontcg.io/swsh1/142.png"
+            "id": "neo4-14",
+            "name": "Light Dragonite",
+            "image": "https://assets.tcgdex.net/en/neo/neo4/14/low.png"
           },
           {
-            "id": "swsh1-197",
-            "name": "Snorlax V",
-            "image": "https://images.pokemontcg.io/swsh1/197.png"
+            "id": "ex7-15",
+            "name": "Dark Dragonite",
+            "image": "https://assets.tcgdex.net/en/ex/ex7/15/low.png"
           },
           {
-            "id": "swsh1-206",
-            "name": "Snorlax VMAX",
-            "image": "https://images.pokemontcg.io/swsh1/206.png"
+            "id": "hgss4-18",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/hgss/hgss4/18/low.png"
           },
           {
-            "id": "swsh2-141",
-            "name": "Snorlax",
-            "image": "https://images.pokemontcg.io/swsh2/141.png"
+            "id": "base3-19",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/base/base3/19/low.png"
           },
           {
-            "id": "sv9-117",
-            "name": "Hop's Snorlax",
-            "image": "https://images.pokemontcg.io/sv9/117.png"
+            "id": "base5-22",
+            "name": "Dark Dragonite",
+            "image": "https://assets.tcgdex.net/en/base/base5/22/low.png"
+          },
+          {
+            "id": "ecard1-43",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/43/low.png"
+          },
+          {
+            "id": "swsh10.5-049",
+            "name": "Dragonite V",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/049/low.png"
+          },
+          {
+            "id": "swsh10.5-050",
+            "name": "Dragonite VSTAR",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/050/low.png"
+          },
+          {
+            "id": "xy6-51",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/51/low.png"
+          },
+          {
+            "id": "xy6-52",
+            "name": "Dragonite",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/52/low.png"
+          },
+          {
+            "id": "A3b-053",
+            "name": "Dragonite ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/A3b/053/low.png"
+          },
+          {
+            "id": "pl3-56",
+            "name": "Dragonite FB",
+            "image": "https://assets.tcgdex.net/en/pl/pl3/56/low.png"
           }
         ],
-        "imageUrl": "https://images.pokemontcg.io/base2/27.png",
-        "cardRawUrl": "https://images.pokemontcg.io/base2/27.png",
+        "imageUrl": "https://assets.tcgdex.net/en/base/basep/5/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/base/basep/5/low.png",
         "showTitle": true,
         "enableHolo": false,
         "animationType": "slide-up",
@@ -217,6 +251,5 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "terminal",
-  "profileSlug": "default"
+  "templateId": "terminal"
 }
